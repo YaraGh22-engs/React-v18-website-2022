@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-v18-website-2022/static/css/main.017e2fad.css",
+    "main.js": "/React-v18-website-2022/static/js/main.3b2fe12a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/React-v18-website-2022/static/js/787.28cb0dcd.chunk.js",
+    "static/media/banner-bg.jpg": "/React-v18-website-2022/static/media/banner-bg.f41cb78948354a14694e.jpg",
+    "static/media/popular-05.jpg": "/React-v18-website-2022/static/media/popular-05.fb754b91636cbce130d6.jpg",
+    "static/media/popular-06.jpg": "/React-v18-website-2022/static/media/popular-06.193c1358cf48df9af86f.jpg",
+    "static/media/popular-08.jpg": "/React-v18-website-2022/static/media/popular-08.126dd98013f11709e815.jpg",
+    "static/media/popular-02.jpg": "/React-v18-website-2022/static/media/popular-02.4ccab5053dc3ac9400fb.jpg",
+    "static/media/popular-01.jpg": "/React-v18-website-2022/static/media/popular-01.d591ee7091c3349e3472.jpg",
+    "static/media/popular-04.jpg": "/React-v18-website-2022/static/media/popular-04.b68fb4322ccb2976873d.jpg",
+    "static/media/popular-07.jpg": "/React-v18-website-2022/static/media/popular-07.bbef6817bf6ac3dcdb80.jpg",
+    "static/media/popular-03.jpg": "/React-v18-website-2022/static/media/popular-03.1c8955f99df2b3b94391.jpg",
+    "index.html": "/React-v18-website-2022/index.html",
+    "main.017e2fad.css.map": "/React-v18-website-2022/static/css/main.017e2fad.css.map",
+    "main.3b2fe12a.js.map": "/React-v18-website-2022/static/js/main.3b2fe12a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/React-v18-website-2022/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.017e2fad.css",
+    "static/js/main.3b2fe12a.js"
+  ]
+}
