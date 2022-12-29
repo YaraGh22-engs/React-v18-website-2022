@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-v18-website-2022/static/css/main.017e2fad.css",
-    "main.js": "/React-v18-website-2022/static/js/main.3b2fe12a.js",
+    "main.css": "/React-v18-website-2022/static/css/main.d03687e4.css",
+    "main.js": "/React-v18-website-2022/static/js/main.3d103b22.js",
     "static/js/787.28cb0dcd.chunk.js": "/React-v18-website-2022/static/js/787.28cb0dcd.chunk.js",
     "static/media/banner-bg.jpg": "/React-v18-website-2022/static/media/banner-bg.f41cb78948354a14694e.jpg",
     "static/media/popular-05.jpg": "/React-v18-website-2022/static/media/popular-05.fb754b91636cbce130d6.jpg",
@@ -13,12 +13,12 @@
     "static/media/popular-07.jpg": "/React-v18-website-2022/static/media/popular-07.bbef6817bf6ac3dcdb80.jpg",
     "static/media/popular-03.jpg": "/React-v18-website-2022/static/media/popular-03.1c8955f99df2b3b94391.jpg",
     "index.html": "/React-v18-website-2022/index.html",
-    "main.017e2fad.css.map": "/React-v18-website-2022/static/css/main.017e2fad.css.map",
-    "main.3b2fe12a.js.map": "/React-v18-website-2022/static/js/main.3b2fe12a.js.map",
+    "main.d03687e4.css.map": "/React-v18-website-2022/static/css/main.d03687e4.css.map",
+    "main.3d103b22.js.map": "/React-v18-website-2022/static/js/main.3d103b22.js.map",
     "787.28cb0dcd.chunk.js.map": "/React-v18-website-2022/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.017e2fad.css",
-    "static/js/main.3b2fe12a.js"
+    "static/css/main.d03687e4.css",
+    "static/js/main.3d103b22.js"
   ]
 }
